@@ -1,0 +1,41 @@
+body, button {
+	background-color: #171720;
+}
+
+#mainframe {
+	padding: 3vh;
+	text-align: center;
+}
+
+h1, h2, p, button {
+	color: white;
+	font-family: "Arial";
+}
+
+a {
+	color: #bbddff;
+}
+
+button {
+	border: 1px solid white;
+	border-radius: 5px;
+	padding: 2vh;
+	margin: 3vh;
+}
+
+button:hover {
+	background-color: #272730;
+}
+
+button:active {
+	background-color: white;
+	color: #171720;
+}
+
+button:focus {
+	outline: 0;
+}
+
+img {
+	display: inline;
+}
