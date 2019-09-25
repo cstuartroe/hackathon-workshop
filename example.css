@@ -12,6 +12,10 @@ h1, h2, p, button {
 	font-family: "Arial";
 }
 
+.greentext {
+	color: #00ff00;
+}
+
 a {
 	color: #bbddff;
 }
